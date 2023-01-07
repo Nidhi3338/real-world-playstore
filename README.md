@@ -13,3 +13,4 @@ Module 2: Visualizing data using Power bi.
 ## Task 1: Pre-processing the data
 
 Data Pre-processing is one of the important steps in data analytics because data that is not processed can lead to different unwanted results when the data will be used for further applications. This task includes sub-tasks such as handling null values, deletion or transformation of irrelevant values, datatype transformation, removing duplicates, etc. The tasks to be performed for cleaning the data set are given below:
+ and creating bar charts and pie charts for business insights .
